@@ -1,0 +1,57 @@
+body{
+    
+}
+P{
+color: white;
+font-weight: bold
+}
+h3{
+margin-bottom: 0px;
+color: orange;
+}
+li{
+
+}
+#Header{
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border: solid 8px black;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+}
+#Header h1{
+
+}
+#LeftNav{
+width: 500px;
+margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    text-align: left;
+}
+#LeftNav img{
+
+}
+#LeftNav ul{
+
+}
+#LeftNav h3{
+
+}
+#Content{
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border: solid 8px black;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold
+}
+#Footer{
+text-align: left;
+border: solid 8px black;
+}
